@@ -166,3 +166,5 @@ LICENSE                           Apache License 2.0
 
 第三方组件及其版权声明见 [NOTICE](NOTICE)。界面基于
 [Miuix](https://github.com/compose-miuix-ui/miuix) 构建。
+
+酷安发布稿见 [docs/COOLAPK.md](docs/COOLAPK.md)。
