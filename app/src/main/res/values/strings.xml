@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">笔控</string>
+    <string name="acc_desc">读取笔键手势并点击粉笔/华图里的草稿纸与橡皮按钮</string>
+</resources>

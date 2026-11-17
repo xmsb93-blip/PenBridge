@@ -1,0 +1,33 @@
+笔控 (PenBridge) 第三方开源组件声明
+====================================
+
+本应用使用以下开源组件。所有组件均以 Apache License 2.0 授权，
+本应用未修改其源代码，仅以二进制依赖方式引用。
+
+1. Miuix (miuix-ui, miuix-preference) 0.9.4
+   Copyright 2025 compose-miuix-ui contributors
+   https://github.com/compose-miuix-ui/miuix
+
+2. AndroidX / Jetpack Compose
+   androidx.activity:activity-compose 1.13.0 及 androidx.compose.* 传递依赖
+   Copyright The Android Open Source Project
+   https://developer.android.com/jetpack/androidx
+
+3. Kotlin Standard Library 2.4.20
+   Copyright 2010-2026 JetBrains s.r.o. and Kotlin Programming Language contributors
+   https://kotlinlang.org
+
+4. Material Color Utilities 5.0.1
+   Copyright 2021 Google LLC
+   https://github.com/material-foundation/material-color-utilities
+
+5. AndroidX NavigationEvent 1.1.2
+   Copyright The Android Open Source Project
+
+6. Shapes 1.2.0 (io.github.kyant0:shapes)
+   Copyright Kyant
+   https://github.com/Kyant0/Shapes
+
+本应用自身代码同样以 Apache License 2.0 发布。
+完整许可证文本见同目录 Apache-2.0.txt，或访问：
+http://www.apache.org/licenses/LICENSE-2.0
